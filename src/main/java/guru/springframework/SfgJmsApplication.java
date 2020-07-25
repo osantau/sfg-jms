@@ -9,5 +9,7 @@ public class SfgJmsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SfgJmsApplication.class, args);
 	}
+	
+	
 
 }
